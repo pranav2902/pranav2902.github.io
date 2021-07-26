@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: ""
 ---
 
 Hi, there. Welcome to my site. I am an incoming graduate student at the [Computer Science and Math Department](https://math.nyu.edu/dynamic/masters/ms-gsas/ms-scientific-computing) at New York University.
