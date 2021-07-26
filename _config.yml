@@ -1,0 +1,33 @@
+title: "Pranav Kamesh S"
+author: "Blog Author"
+description: "Personal Website"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: false      # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: MyCV_Pranav_Final.pdf, title: "CV"}
+  - {file: "README.md", title: "About Me"}
+  - {file: "blog.md", title: "Blog"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:pranav2902@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/pranav2902"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/not_calmesh"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
