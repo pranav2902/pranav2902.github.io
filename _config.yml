@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: MyCV_Pranav_Final.pdf, title: "CV"}
-  - {file: "index.md", title: "About Me"}
-  - {file: "blog.md", title: "Blog"}
+  - {file: cv.md, title: "CV", url: "https://pranav2902.github.io/CV" }
+  - {file: "index.md", title: "About Me", url: "https://pranav2902.github.io/about"}
+  - {file: "blog.md", title: "Blog", url: "https://pranav2902.github.io/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:pranav2902@gmail.com"}
