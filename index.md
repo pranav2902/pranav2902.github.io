@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ""
+title: "About Me"
+permalink: /about/
 ---
 
 Hey there, this is Pranav, and Welcome to my site! I am working as an ML Engineer currently at Deep Market Making Inc, and graduated from NYU Courant, with an MS in Computational Science, focussing on Machine Learning, in 2023! 
