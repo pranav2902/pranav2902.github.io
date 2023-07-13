@@ -10,5 +10,6 @@ I am interested in ML Engineering, and applying NLP and Computer Vision to vario
 
 On this website, you can find a list of my projects and learnings in ML, my CV, my thoughts/opinions on various things, and maybe a few Sudokus and puzzles here and there! :)
 
-[Github](https://github.com/pranav2902)
+[Github](https://github.com/pranav2902). 
+[CV](/MyCV-DSML-DMM.pdf). 
 
