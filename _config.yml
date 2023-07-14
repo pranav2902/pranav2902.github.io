@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "cv.md", title: "CV", url: "/MyCV-DSML-DMM.pdf" }
   - {file: "index.md", title: "About Me", url: "https://pranav2902.github.io/about"}
+  - {file: "cv.md", title: "CV", url: "/MyCV-DSML-DMM.pdf" }
   - {file: "blog.md", title: "Blog", url: "https://pranav2902.github.io/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
