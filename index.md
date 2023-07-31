@@ -8,12 +8,20 @@ Hey there, this is Pranav, and Welcome to my site! I am working as an ML Enginee
 
 I am interested in ML Engineering, and applying NLP and Computer Vision to various problems. 
 
-On this website, you can find a list of my projects and learnings in ML, my CV, my thoughts/opinions on various things, and maybe a few Sudokus and puzzles here and there! :)
+On this website, you can find a list of my projects and learnings in ML, my CV, and maybe a few Sudokus and puzzles here and there! :)
 
 [Github](https://github.com/pranav2902)   
 [LinkedIn](https://www.linkedin.com/in/pranav-kamesh-8aa88520)
 
 ## Projects
+
+### [Document LLM Chatbot](https://github.com/pranav2902/DocumentAnalyzerLLM)
+
+* Utilized Selenium to scrape articles from [PartnerTap Support](https://partnertap.zendesk.com/hc/en-us).
+* Used LangChain with OpenAI ChatGPT-3.5, to create a Support chatbot.
+
+**Remarks:** Ongoing Project
+
 ### [Satellite Image Segmentation using U-Nets - Vision](https://github.com/pranav2902/SatelliteImagesSegmentation_Unet)
 
 * Trained U-Net models with ResNet-18 and ResNet-50 encoders on the LandCover.ai dataset for Satellite Image Segmentation                                                        
@@ -41,9 +49,17 @@ Detection tasks.
 
 ### [Whatsapp Chat Analysis](https://github.com/pranav2902/Whatsapp-Text-Analysis)
 
+* Implemented a software for analysing WhatsApp text messages using Python
+* Calculated important individual and group-based information such as the message and word count of each person, the most used words and emojis of the person, the busiest and most verbose users, and the average activity of the group chat.
+* Visualized frequency plots pertaining to each individual’s messages, and the activity of the Group chat throughout its lifetime.
 
+**Remarks:** Personal Project
 
+### Facial Emotion Detection using Deep Learning
 
+* Implemented a 2 stream Neural Network to consider Micro-Expressions in Facial Emotion Detection.
+* Showcased the difference in performance of 2 widely used Emotion Detection Models on Indian and mixed video datasets.
+* Implemented procedures for generating spontaneous emotions and created an Indigenous video emotion dataset.
 
 
 
