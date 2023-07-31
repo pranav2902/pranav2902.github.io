@@ -8,7 +8,7 @@ Hey there, this is Pranav, and Welcome to my site! I am working as an ML Enginee
 
 I am interested in ML Engineering, and applying NLP and Computer Vision to various problems. 
 
-On this website, you can find a list of my projects and learnings in ML, my CV, and maybe a few Sudokus and puzzles here and there! :)
+I am an avid Puzzle Solver, having represented India at the World Sudoku and Puzzle Championships from 2015-2019, 2022. On this website, you can find a list of my projects and learnings in ML, my CV, and maybe a few Sudokus and puzzles here and there! :)
 
 [Github](https://github.com/pranav2902)   
 [LinkedIn](https://www.linkedin.com/in/pranav-kamesh-8aa88520)
