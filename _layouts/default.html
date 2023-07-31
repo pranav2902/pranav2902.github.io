@@ -28,8 +28,8 @@
 {% endif %}
 
 <header>
+  <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" height="40" width="80" /></a>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
-  <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" height="40" width="40" /></a>
   {% include menu.html menu=pages %}
 </header>
 
