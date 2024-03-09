@@ -4,4 +4,4 @@ title: "CV"
 permalink: /CV/
 ---
 
-[CV](/MyCV-DSML-DMM.pdf)
+[CV](/MyResume-DSML.pdf)
