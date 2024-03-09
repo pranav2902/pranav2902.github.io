@@ -20,12 +20,10 @@ I am an avid Puzzle Solver, having represented India at the World Sudoku and Puz
 * Utilized Selenium to scrape articles from [PartnerTap Support](https://partnertap.zendesk.com/hc/en-us).
 * Used LangChain with OpenAI ChatGPT-3.5, to create a Support chatbot.
 
-**Remarks:** Ongoing Project
-
 ### [Satellite Image Segmentation using U-Nets - Vision](https://github.com/pranav2902/SatelliteImagesSegmentation_Unet)
 
 * Trained U-Net models with ResNet-18 and ResNet-50 encoders on the LandCover.ai dataset for Satellite Image Segmentation                                                        
-* Augmented the given dataset with relevant transformations to balance the dataset, which improved the results.                                                                                  
+* Augmented the given dataset with relevant transformations to balance the dataset, which improved the results.                                                                    
 * Compared the performance of Vanilla U-Net model with U-Nets with ResNet encoders, for both the original and Augmented datasets.                                                    
 * Obtained a Classification accuracy of 0.88 for U-Net+ResNet-18 model, which is in line with previous benchmarks. 
 
@@ -33,7 +31,8 @@ I am an avid Puzzle Solver, having represented India at the World Sudoku and Puz
 
 ### [Unlearning the bias of a Dataset using BERT Models - NLP](https://github.com/pranav2902/Unlearning-the-bias-of-a-dataset)
 
-* Utilized concepts from He et al’s work – (Unlearn Dataset Bias in NLI by Fitting the Residual) to train a BERT model for textual entailment task.                                        
+* Utilized concepts from He et al’s work – (Unlearn Dataset Bias in NLI by Fitting the Residual) to train a BERT model for textual entailment task.     
+                                   
 * Obtained an accuracy of 0.898 with BERT model on the Stanford NLI dataset, improving upon the benchmark set in He’s work.
 
 **Remarks:** This was my course project for Deep Learning Systems at NYU Courant.
